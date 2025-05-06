@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3jqNBztS8I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\gestion-concrets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LazaDX\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\LazaDX\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

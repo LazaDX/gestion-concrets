@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "gestion-concrets\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "gestion-concrets\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:05:16.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
