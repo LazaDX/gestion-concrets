@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gestion-concrets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b5981d95cc56f174b49e63e7966c7e790d0068")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1536ea372048e647650adca89243036534f2e91b")]
 [assembly: System.Reflection.AssemblyProductAttribute("gestion-concrets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gestion-concrets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
