@@ -16,7 +16,7 @@
         <ui:TextBox HorizontalAlignment="Left" Margin="54,111,0,0" TextWrapping="Wrap" Text="{Binding BPerson.B1, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="371" Height="29"/>
         <Label Content="B2. Taona" HorizontalAlignment="Left" Margin="54,157,0,0" VerticalAlignment="Top" FontSize="14"/>
         <ui:TextBox HorizontalAlignment="Left" Margin="54,191,0,0" TextWrapping="Wrap" Text="{Binding BPerson.B2, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="371" Height="29"/>
-        <Label Content="B3. " HorizontalAlignment="Left" Margin="54,237,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label Content="B3.  Fory" HorizontalAlignment="Left" Margin="54,237,0,0" VerticalAlignment="Top" FontSize="14"/>
         <ComboBox  ItemsSource="{Binding SexeOptions}" HorizontalAlignment="Left" Margin="54,271,0,0" VerticalAlignment="Top" Width="120" Height="32" SelectedItem="{Binding BPerson.B3, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
         />
         <ui:Button Content="Sauvegarder" HorizontalAlignment="Left" Margin="45,366,0,0" VerticalAlignment="Top" Width="181" Height="39" Command="{Binding SaveCommand}"/>

@@ -185,23 +185,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LazaDX\\.nuget\\packages\\": {},
+    "C:\\Users\\moras\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\gestion-concrets.csproj",
+      "projectUniqueName": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\gestion-concrets.csproj",
       "projectName": "gestion-concrets",
-      "projectPath": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\gestion-concrets.csproj",
-      "packagesPath": "C:\\Users\\LazaDX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\obj\\",
+      "projectPath": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\gestion-concrets.csproj",
+      "packagesPath": "C:\\Users\\moras\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LazaDX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\moras\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -228,7 +228,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -262,7 +262,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

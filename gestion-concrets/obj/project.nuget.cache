@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "flIwQIvvUfY=",
+  "dgSpecHash": "meU72E7/woA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\gestion-concrets.csproj",
+  "projectFilePath": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\gestion-concrets.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LazaDX\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
-    "C:\\Users\\LazaDX\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
-    "C:\\Users\\LazaDX\\.nuget\\packages\\wpf-ui\\4.0.2\\wpf-ui.4.0.2.nupkg.sha512",
-    "C:\\Users\\LazaDX\\.nuget\\packages\\wpf-ui.abstractions\\4.0.2\\wpf-ui.abstractions.4.0.2.nupkg.sha512"
+    "C:\\Users\\moras\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\moras\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\moras\\.nuget\\packages\\wpf-ui\\4.0.2\\wpf-ui.4.0.2.nupkg.sha512",
+    "C:\\Users\\moras\\.nuget\\packages\\wpf-ui.abstractions\\4.0.2\\wpf-ui.abstractions.4.0.2.nupkg.sha512"
   ],
   "logs": []
 }

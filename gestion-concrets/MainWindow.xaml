@@ -21,10 +21,11 @@
             <Frame x:Name="MainFrame" Content="" NavigationUIVisibility="Hidden" Margin="66,70,66,70"/>
         </Border>
         <ui:Button x:Name="dashBt" Content="Tableau de bord" HorizontalAlignment="Left" Margin="25,68,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="249" Background="{x:Null}" Foreground="White" FontSize="14" FontWeight="Bold" Click="dashBt_Click"/>
-        <ui:Button x:Name="gestBt" Content="Gestion des personnes" HorizontalAlignment="Left" Margin="25,171,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="249" Background="{x:Null}" Foreground="White" FontSize="14" FontWeight="Bold" Click="gestBtn"/>
-        <ui:Button x:Name="statBt" Content="Statistiques" HorizontalAlignment="Left" Margin="25,233,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="249" Background="{x:Null}" Foreground="White" FontSize="14" FontWeight="Bold"/>
-        <ui:Button x:Name="bdBt" Content="Base de données" HorizontalAlignment="Left" Margin="25,293,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="249" Background="{x:Null}" Foreground="White" FontSize="14" FontWeight="Bold"/>
-        <ui:Button x:Name="aideBt" Content="Aide " HorizontalAlignment="Left" Margin="25,352,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="249" Background="{x:Null}" Foreground="White" FontSize="14" FontWeight="Bold"/>
+        <ui:Button x:Name="gestionBt" Content="Gestion des personnes" HorizontalAlignment="Left" Margin="25,217,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="249" Background="{x:Null}" Foreground="White" FontSize="14" FontWeight="Bold" Click="gestBtn"/>
+        <ui:Button x:Name="statBt" Content="Statistiques" HorizontalAlignment="Left" Margin="25,279,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="249" Background="{x:Null}" Foreground="White" FontSize="14" FontWeight="Bold"/>
+        <ui:Button x:Name="bdBt" Content="Base de données" HorizontalAlignment="Left" Margin="25,339,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="249" Background="{x:Null}" Foreground="White" FontSize="14" FontWeight="Bold"/>
+        <ui:Button x:Name="aideBt" Content="Aide " HorizontalAlignment="Left" Margin="25,398,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="249" Background="{x:Null}" Foreground="White" FontSize="14" FontWeight="Bold"/>
+        <ui:Button x:Name="ajoutsBt_Copy" Content="Ajouter des personnes" HorizontalAlignment="Left" Margin="25,156,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="249" Background="{x:Null}" Foreground="White" FontSize="14" FontWeight="Bold" Click="gestBtn"/>
 
 
     </Grid>

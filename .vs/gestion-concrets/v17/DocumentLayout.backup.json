@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\",
+  "WorkspaceRootPath": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\views\\personview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\views\\personview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\views\\personview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\views\\personview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\views\\personview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\views\\personview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\views\\personview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\views\\personview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\vipartnercollab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\vipartnercollab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\models\\vipartnercollab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\bperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\bperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\models\\bperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\vdevsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\vdevsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\models\\vdevsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\ivdutygov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\ivdutygov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\models\\ivdutygov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\itransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\itransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\models\\itransmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\iiiright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\iiiright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\models\\iiiright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\iiapplicationcdph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\iiapplicationcdph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\models\\iiapplicationcdph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\alocalisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\models\\alocalisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\models\\alocalisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\lazadx\\source\\repos\\gestion-concrets\\gestion-concrets\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|c:\\users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F27D8942-76E1-452F-BF8B-8BC073E81CCF}|gestion-concrets\\gestion-concrets.csproj|solutionrelative:gestion-concrets\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,11 +82,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PersonView.xaml",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Views\\PersonView.xaml",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Views\\PersonView.xaml",
               "RelativeDocumentMoniker": "gestion-concrets\\Views\\PersonView.xaml",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Views\\PersonView.xaml",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Views\\PersonView.xaml",
               "RelativeToolTip": "gestion-concrets\\Views\\PersonView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-12T14:40:52.267Z",
@@ -94,25 +94,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PersonView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Views\\PersonView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Views\\PersonView.xaml.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\Views\\PersonView.xaml.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Views\\PersonView.xaml.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Views\\PersonView.xaml.cs",
               "RelativeToolTip": "gestion-concrets\\Views\\PersonView.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:07:54.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T15:07:54.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\MainWindow.xaml",
               "RelativeDocumentMoniker": "gestion-concrets\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\MainWindow.xaml",
-              "RelativeToolTip": "gestion-concrets\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\MainWindow.xaml*",
+              "RelativeToolTip": "gestion-concrets\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-08T15:51:45.329Z",
               "EditorCaption": ""
@@ -121,11 +120,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\MainWindow.xaml.cs",
               "RelativeToolTip": "gestion-concrets\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwCUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T12:38:30.269Z",
               "EditorCaption": ""
@@ -134,22 +133,22 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PersonViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\PersonViewModel.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\ViewModels\\PersonViewModel.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\PersonViewModel.cs",
               "RelativeToolTip": "gestion-concrets\\ViewModels\\PersonViewModel.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAqwEoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T13:18:12.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\ViewModels\\BaseViewModel.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\BaseViewModel.cs",
               "RelativeToolTip": "gestion-concrets\\ViewModels\\BaseViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,126 +159,117 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\RelayCommand.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\ViewModels\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\ViewModels\\RelayCommand.cs",
               "RelativeToolTip": "gestion-concrets\\ViewModels\\RelayCommand.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:31:04.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T14:31:04.725Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "VIpartnerCollab.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\VIpartnerCollab.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\VIpartnerCollab.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\Models\\VIpartnerCollab.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\VIpartnerCollab.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\VIpartnerCollab.cs",
               "RelativeToolTip": "gestion-concrets\\Models\\VIpartnerCollab.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:29:25.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T13:29:25.125Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "BPerson.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\BPerson.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\BPerson.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\Models\\BPerson.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\BPerson.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\BPerson.cs",
               "RelativeToolTip": "gestion-concrets\\Models\\BPerson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:16:49.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T13:16:49.149Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Itransmission.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\Itransmission.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\Itransmission.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\Models\\Itransmission.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\Itransmission.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\Itransmission.cs",
               "RelativeToolTip": "gestion-concrets\\Models\\Itransmission.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:29:14.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T13:29:14.751Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "IIIright.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IIIright.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IIIright.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\Models\\IIIright.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IIIright.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IIIright.cs",
               "RelativeToolTip": "gestion-concrets\\Models\\IIIright.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:29:04.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T13:29:04.913Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Alocalisation.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\Alocalisation.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\Alocalisation.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\Models\\Alocalisation.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\Alocalisation.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\Alocalisation.cs",
               "RelativeToolTip": "gestion-concrets\\Models\\Alocalisation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:28:46.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T13:28:46.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "IIapplicationCDPH.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IIapplicationCDPH.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IIapplicationCDPH.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\Models\\IIapplicationCDPH.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IIapplicationCDPH.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IIapplicationCDPH.cs",
               "RelativeToolTip": "gestion-concrets\\Models\\IIapplicationCDPH.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:17:13.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T13:17:13.94Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "IVdutyGov.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IVdutyGov.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IVdutyGov.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\Models\\IVdutyGov.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IVdutyGov.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\IVdutyGov.cs",
               "RelativeToolTip": "gestion-concrets\\Models\\IVdutyGov.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:22:16.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T14:22:16.009Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "VdevSupport.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\VdevSupport.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\VdevSupport.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\Models\\VdevSupport.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\VdevSupport.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Models\\VdevSupport.cs",
               "RelativeToolTip": "gestion-concrets\\Models\\VdevSupport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:23:03.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T14:23:03.619Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "DatabaseService.cs",
-              "DocumentMoniker": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Services\\DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Services\\DatabaseService.cs",
               "RelativeDocumentMoniker": "gestion-concrets\\Services\\DatabaseService.cs",
-              "ToolTip": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\moras\\source\\repos\\gestion-concrets\\gestion-concrets\\Services\\DatabaseService.cs",
               "RelativeToolTip": "gestion-concrets\\Services\\DatabaseService.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAAAG0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
