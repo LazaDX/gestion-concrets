@@ -53,6 +53,10 @@
             "System.Data.SQLite.Core": {
               "target": "Package",
               "version": "[1.0.119, )"
+            },
+            "WPF-UI": {
+              "target": "Package",
+              "version": "[4.0.2, )"
             }
           },
           "imports": [

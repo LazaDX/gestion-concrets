@@ -19,9 +19,14 @@ C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-
 C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\gestion-concrets.AssemblyInfoInputs.cache
 C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\gestion-concrets.AssemblyInfo.cs
 C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\gestion-concrets.csproj.CoreCompileInputs.cache
+C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\gestion-concrets.sourcelink.json
 C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\gestion-.39F15920.Up2Date
 C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\gestion-concrets.dll
 C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\refint\gestion-concrets.dll
 C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\gestion-concrets.pdb
 C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\gestion-concrets.genruntimeconfig.cache
 C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\ref\gestion-concrets.dll
+C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\bin\Debug\net8.0-windows\Wpf.Ui.dll
+C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\bin\Debug\net8.0-windows\Wpf.Ui.Abstractions.dll
+C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\Views\PersonView.g.cs
+C:\Users\LazaDX\source\repos\gestion-concrets\gestion-concrets\obj\Debug\net8.0-windows\Views\PersonView.baml

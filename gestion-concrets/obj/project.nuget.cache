@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "l3jqNBztS8I=",
+  "dgSpecHash": "flIwQIvvUfY=",
   "success": true,
   "projectFilePath": "C:\\Users\\LazaDX\\source\\repos\\gestion-concrets\\gestion-concrets\\gestion-concrets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LazaDX\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
-    "C:\\Users\\LazaDX\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+    "C:\\Users\\LazaDX\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\LazaDX\\.nuget\\packages\\wpf-ui\\4.0.2\\wpf-ui.4.0.2.nupkg.sha512",
+    "C:\\Users\\LazaDX\\.nuget\\packages\\wpf-ui.abstractions\\4.0.2\\wpf-ui.abstractions.4.0.2.nupkg.sha512"
   ],
   "logs": []
 }

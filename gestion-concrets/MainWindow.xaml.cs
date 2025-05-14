@@ -8,6 +8,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using gestion_concrets.Services;
+using gestion_concrets.ViewModels;
+using gestion_concrets.Views;
 
 namespace gestion_concrets
 {
@@ -19,6 +22,18 @@ namespace gestion_concrets
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+     
+
+        private void dashBt_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void gestBtn(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new PersonView());
         }
     }
 }
